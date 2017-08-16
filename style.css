@@ -1,0 +1,43 @@
+.body {
+    background-color: black;
+    text-align: center;
+    /*margin:0;
+    padding:0;*/
+}
+
+.title {
+  /*background-color: #330000;*/
+  color: #fff7e6;
+}
+
+.title {
+  padding: 50px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.subtitle {
+  font-style: italic;
+}
+
+p {
+  background-color: black;
+  color: white;
+  font-family: 'Slabo 27px', serif;
+}
+
+.instructions {
+  margin: 30px;
+}
+
+.btn {
+  margin: 50px;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+
+footer {
+  padding: 100px;
+  font-size: 10px;
+}
